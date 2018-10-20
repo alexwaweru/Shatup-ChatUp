@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "start": "node index.js"
+  },
+  "main": "index.js",
   "name": "Shatup-ChatUp",
   "version": "0.0.1",
   "description": "Anonymous chat app",
